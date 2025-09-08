@@ -20,8 +20,8 @@ This repo is **frontend only** – contributors can improve the design, add new 
 
 ## 1.Clone the repo
 
-git clone https://github.com/GreatStackDev/QuickCart.git
-cd QuickCart
+git clone https://github.com/AnjaliM28096/JellyFab.git
+cd jellyFab
 
 ## 2.Install dependencies
 
