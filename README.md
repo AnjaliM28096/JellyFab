@@ -1,7 +1,7 @@
-# JellyFab - A eCommerce website
+<!-- # JellyFab - A eCommerce website
 
-JellyFab is an open-source **Next.js eCommerce FullStack** project.  
-It provides a modern, fast and customizable shopping UI.  
+JellyFab is an open-source **Next.js eCommerce FullStack** project.
+It provides a modern, fast and customizable shopping UI.
 This repo is **frontend only** – contributors can improve the design, add new pages, animations and more.
 
 ---
@@ -21,7 +21,7 @@ This repo is **frontend only** – contributors can improve the design, add new 
 ## 1.Clone the repo
 
 git clone https://github.com/GreatStackDev/QuickCart.git
-cd jellyFab
+cd QuickCart
 
 ## 2.Install dependencies
 
@@ -29,4 +29,4 @@ npm install
 
 ## 3.Run locally
 
-npm run dev
+npm run dev -->
