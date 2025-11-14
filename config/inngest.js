@@ -2,7 +2,7 @@ import { Inngest } from "inngest";
 import connectionDB from "./db";
 
 // Create a client to send and receive events
-export const inngest = new Inngest({ id: "jellyFab" });
+export const inngest = new Inngest({ id: "jellyfab" });
 
 // inngest Function to save user data to a database
 
