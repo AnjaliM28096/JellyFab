@@ -6,15 +6,15 @@ const HeaderSlider = () => {
   const sliderData = [
     {
       id: 1,
-      title: "Experience Pure Sound - Your Perfect Headphones Awaits!",
+      title: "Experience Feel Before You Buy - Your Perfect Day!",
       // offer: "Limited Time Offer 30% Off",
-      buttonText1: "Buy now",
+      buttonText1: "Order now",
       buttonText2: "Find more",
       imgSrc: assets.header_fashion1_image,
     },
     {
       id: 2,
-      title: "Next-Level Gaming Starts Here - Discover PlayStation 5 Today!",
+      title: "Outfit - A complete set of clothes worn together.!",
       // offer: "Hurry up only few lefts!",
       buttonText1: "Shop Now",
       buttonText2: "Explore Deals",
@@ -22,9 +22,10 @@ const HeaderSlider = () => {
     },
     {
       id: 3,
-      stitle: "Power Meets Elegance - Apple MacBook Pro is Here for you!",
+      title:
+        "Power Meets Elegance - Another general term for articles of clothing.!",
       // offer: "Exclusive Deal 40% Off",
-      buttonText1: "Order Now",
+      buttonText1: "Buy Now",
       buttonText2: "Learn More",
       imgSrc: assets.header_fashion3_image,
     },
@@ -56,28 +57,28 @@ const HeaderSlider = () => {
             key={slide.id}
             className="flex flex-col-reverse md:flex-row items-center j5ustify-between py- md:px-14 px-5 m t-6 rounded-xl min-w-full bg-pink-50"
           >
-            <div className="md:pl-8 mt-10 md:mt-0">
-              <p className="md:text-base text-orange-600 pb-1">{slide.offer}</p>
+            {/* <div className="md:pl-8 mt-10 md:mt-0">
+              <p className="md:text-base text-orange-500 pb-1">{slide.offer}</p>
               <h1 className="max-w-lg md:text-[40px] md:leading-[48px] text-2xl font-semibold">
                 {slide.title}
               </h1>
               <div className="flex items-center mt-4 md:mt-6 ">
-                <button className="md:px-10 px-7 md:py-2.5 py-2 bg-orange-600 rounded-full text-white font-medium">
+                <button className="md:px-10 px-7 md:py-2.5 py-2 bg-black rounded-full text-white font-medium">
                   {slide.buttonText1}
                 </button>
                 <button className="group flex items-center gap-2 px-6 py-2.5 font-medium">
                   {slide.buttonText2}
                   <Image
-                    className="group-hover:translate-x-1 transition"
+                    className=" group-hover:translate-x-1 transition "
                     src={assets.arrow_icon}
                     alt="arrow_icon"
                   />
                 </button>
               </div>
-            </div>
+            </div> */}
             <div className="flex items-center flex-1 justify-center">
               <Image
-                className="md:w-72 w-48"
+                className="md:w-full w-full h-full object-cover"
                 src={slide.imgSrc}
                 alt={`Slide ${index + 1}`}
               />
@@ -92,7 +93,7 @@ const HeaderSlider = () => {
             key={index}
             onClick={() => handleSlideChange(index)}
             className={`h-2 w-2 rounded-full cursor-pointer ${
-              currentSlide === index ? "bg-orange-600" : "bg-gray-500/30"
+              currentSlide === index ? "bg-black" : "bg-gray-500/30"
             }`}
           ></div>
         ))}

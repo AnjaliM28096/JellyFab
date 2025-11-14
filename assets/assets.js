@@ -23,29 +23,39 @@ import star_dull_icon from "./star_dull_icon.svg";
 import header_fashion1_image from "./header_fashion1_image.png";
 import header_fashion2_image from "./header_fashion2_image.png";
 import header_fashion3_image from "./header_fashion3_image.png";
-import macbook_image from "./macbook_image.png";
-import bose_headphone_image from "./bose_headphone_image.png";
-import apple_earphone_image from "./apple_earphone_image.png";
-import samsung_s23phone_image from "./samsung_s23phone_image.png";
-import venu_watch_image from "./venu_watch_image.png";
-import upload_area from "./upload_area.png";
-import cannon_camera_image from "./cannon_camera_image.png";
-import sony_airbuds_image from "./sony_airbuds_image.png";
-import asus_laptop_image from "./asus_laptop_image.png";
-import projector_image from "./projector_image.png";
-import playstation_image from "./playstation_image.png";
-import girl_with_headphone_image from "./girl_with_headphone_image.png";
-import girl_with_earphone_image from "./girl_with_earphone_image.png";
-import md_controller_image from "./md_controller_image.png";
-import sm_controller_image from "./sm_controller_image.png";
-import jbl_soundbox_image from "./jbl_soundbox_image.png";
-import boy_with_laptop_image from "./boy_with_laptop_image.png";
-import checkmark from "./checkmark.png";
-import product_details_page_apple_earphone_image1 from "./product_details_page_apple_earphone_image1.png";
-import product_details_page_apple_earphone_image2 from "./product_details_page_apple_earphone_image2.png";
-import product_details_page_apple_earphone_image3 from "./product_details_page_apple_earphone_image3.png";
-import product_details_page_apple_earphone_image4 from "./product_details_page_apple_earphone_image4.png";
-import product_details_page_apple_earphone_image5 from "./product_details_page_apple_earphone_image5.png";
+
+import blue_floral_women_image from "./blue_floral_women_image.png";
+import blue_dress_women_img from "./blue_dress_women_img.png";
+import green_frock_women_img from "./green_frock_women_img.jpg";
+import light_blue_women_img from "./light_blue_women_img.png";
+import black_outfit_men_img from "./black_outfit_men_img.jpg";
+import white_gown_women_img from "./white_gown_women_img.jpg";
+import yellow_top_women from "./yellow_top_women.jpg";
+// import red_dress_women_img from "red_dress_women_img.png";
+import black_coset_dress_image from "./black_cotset_dress_image.jpg";
+import pink_floral_dress_image from "./pink_floral_dress_image.jpg";
+import black_hot_gown_image from "./black_hot_gown_image.jpg";
+import red_hot_dress_image from "./red_hot_dress_image.jpg";
+import white_floral_hot_dress_image from "./white_floral_hot_dress_image.jpg";
+import white_crop_top_image from "./white_crop_top_image.jpg";
+// import upload_area from "./upload_area.png";
+// import cannon_camera_image from "./cannon_camera_image.png";
+// import sony_airbuds_image from "./sony_airbuds_image.png";
+// import asus_laptop_image from "./asus_laptop_image.png";
+// import projector_image from "./projector_image.png";
+// import playstation_image from "./playstation_image.png";
+// import girl_with_headphone_image from "./girl_with_headphone_image.png";
+// import girl_with_earphone_image from "./girl_with_earphone_image.png";
+// import md_controller_image from "./md_controller_image.png";
+// import sm_controller_image from "./sm_controller_image.png";
+// import jbl_soundbox_image from "./jbl_soundbox_image.png";
+// import boy_with_laptop_image from "./boy_with_laptop_image.png";
+// import checkmark from "./checkmark.png";
+// import product_details_page_apple_earphone_image1 from "./product_details_page_apple_earphone_image1.png";
+// import product_details_page_apple_earphone_image2 from "./product_details_page_apple_earphone_image2.png";
+// import product_details_page_apple_earphone_image3 from "./product_details_page_apple_earphone_image3.png";
+// import product_details_page_apple_earphone_image4 from "./product_details_page_apple_earphone_image4.png";
+// import product_details_page_apple_earphone_image5 from "./product_details_page_apple_earphone_image5.png";
 
 export const assets = {
   logo,
@@ -73,29 +83,41 @@ export const assets = {
   header_fashion1_image,
   header_fashion2_image,
   header_fashion3_image,
-  macbook_image,
-  bose_headphone_image,
-  apple_earphone_image,
-  samsung_s23phone_image,
-  venu_watch_image,
-  upload_area,
-  cannon_camera_image,
-  sony_airbuds_image,
-  asus_laptop_image,
-  projector_image,
-  playstation_image,
-  girl_with_headphone_image,
-  girl_with_earphone_image,
-  md_controller_image,
-  sm_controller_image,
-  jbl_soundbox_image,
-  boy_with_laptop_image,
-  product_details_page_apple_earphone_image1,
-  product_details_page_apple_earphone_image2,
-  product_details_page_apple_earphone_image3,
-  product_details_page_apple_earphone_image4,
-  product_details_page_apple_earphone_image5,
-  checkmark,
+
+  blue_floral_women_image,
+  blue_dress_women_img,
+  green_frock_women_img,
+  light_blue_women_img,
+  black_outfit_men_img,
+  white_gown_women_img,
+  yellow_top_women,
+  // red_dress_women_img,
+
+  white_crop_top_image,
+  white_floral_hot_dress_image,
+  black_coset_dress_image,
+  pink_floral_dress_image,
+  black_hot_gown_image,
+  red_hot_dress_image,
+
+  // upload_area,
+  // cannon_camera_image,
+  // sony_airbuds_image,
+  // asus_laptop_image,
+  // projector_image,
+  // playstation_image,
+  // girl_with_headphone_image,
+  // girl_with_earphone_image,
+  // md_controller_image,
+  // sm_controller_image,
+  // jbl_soundbox_image,
+  // boy_with_laptop_image,
+  // product_details_page_apple_earphone_image1,
+  // product_details_page_apple_earphone_image2,
+  // product_details_page_apple_earphone_image3,
+  // product_details_page_apple_earphone_image4,
+  // product_details_page_apple_earphone_image5,
+  // checkmark,
 };
 
 export const BagIcon = () => {
@@ -187,7 +209,7 @@ export const productsDummyData = [
   {
     _id: "67a1f4e43f34a77b6dde9144",
     userId: "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    name: "Apple AirPods Pro 2nd gen",
+    name: "Women top ",
     description:
       "Apple AirPods Pro (2nd Gen) with MagSafe Case (USB-C) provide excellent sound, active noise cancellation, and a comfortable fit. The USB-C case ensures quick charging, and they pair seamlessly with Apple devices for an effortless audio experience.",
     price: 499.99,
@@ -341,7 +363,7 @@ export const productsDummyData = [
 
 export const userDummyData = {
   _id: "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-  name: "GreatStack",
+  name: "Anjali",
   email: "admin@example.com",
   imageUrl:
     "https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18ycnlnUnFiUDBYT2dEZ2h1ZmRXcGlpdWV5OXoiLCJyaWQiOiJ1c2VyXzJzWkZIUzFVSUl5c0p5RFZ6Q3BRaFVoVElodyJ9",

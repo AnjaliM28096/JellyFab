@@ -1,5 +1,6 @@
 import { Inngest } from "inngest";
 import connectionDB from "./db";
+import User from "@/models/user.models";
 
 // Create a client to send and receive events
 export const inngest = new Inngest({ id: "jellyfab" });
